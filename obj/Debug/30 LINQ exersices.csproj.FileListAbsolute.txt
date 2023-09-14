@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\bin\Debug\30 LINQ exersices.exe.config
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\bin\Debug\30 LINQ exersices.exe
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\bin\Debug\30 LINQ exersices.pdb
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\obj\Debug\30 LINQ exersices.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\obj\Debug\30 LINQ exersices.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\obj\Debug\30 LINQ exersices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\obj\Debug\30 LINQ exersices.exe
+C:\Users\User\source\repos\Edabit_exirsices\30 LINQ exersices\obj\Debug\30 LINQ exersices.pdb
